@@ -1,0 +1,65 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.27)  20 JAN 2020 10:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"/home/p/projects/internship request/internship request.tex"
+(/home/p/projects/internship request/internship request.tex
+LaTeX2e <2019-10-01> patch level 3
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./internship request.aux)
+\openout1 = `"internship request.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--16
+
+ []
+
+[1
+
+] (./internship request.aux) ) 
+Here is how much of TeX's memory you used:
+ 236 strings out of 492473
+ 2753 string characters out of 6129311
+ 67418 words of memory out of 5000000
+ 4811 multiletter control sequences out of 15000+600000
+ 3656 words of font info for 16 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,4n,21p,241b,99s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on internship request.pdf (1 page).
